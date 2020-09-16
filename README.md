@@ -1,5 +1,11 @@
 # Spotify-clone
 
+#### _Take a look:_
+
+![clone image](https://github.com/husain-amjhera/spotify-clone/blob/master/images/spotify-clone.PNG?raw=true)
+
+![clone image](https://github.com/husain-amjhera/spotify-clone/blob/master/images/spotify-clone2.PNG?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
